@@ -7,7 +7,7 @@ In old tradition save the files in a extra folder and link to the right place, a
 
 Installation
 ============
-``` bash
+```bash
 git clone jadajadajada
 cd ~/ddotfiles
 ./makeReal2thisPlace.sh
